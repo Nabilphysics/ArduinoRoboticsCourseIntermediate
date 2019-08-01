@@ -12,4 +12,6 @@ CTO, Cybernetics Robo Academy, Bangladesh<br>
 CEO, CRUX (www.cruxbd.com)<br>
 github.com/Nabilphysics<br>
 www.nabilbd.com <br>
-www.youtube.com/Nabilphysics
+www.youtube.com/Nabilphysics <br>
+https://www.linkedin.com/in/nabilphysics/ <br>
+https://www.fb.com/Nabilphysics
