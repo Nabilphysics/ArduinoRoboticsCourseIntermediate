@@ -2,13 +2,14 @@
 
 
 Robotics & Programming <br>
-Academy: Cybernetics Robo Academy, Bangladesh
-Class : Bravo (Class 8 - 10) & Charlie (Class 11 - 12)
-Total Class : 16 , Course Hour : 32 Hours(2 Hours/Class)
-Admission : +88017 61 500020
-Written By :
-Syed Razwanul Haque (Nabil) ,
-CTO, Cybernetics Robo Academy, Bangladesh
-CEO, CRUX (www.cruxbd.com)
-github.com/Nabilphysics
-www.nabilbd.com 
+Academy: Cybernetics Robo Academy, Bangladesh<br>
+Class : Bravo (Class 8 - 10) & Charlie (Class 11 - 12)<br>
+Total Class : 16 , Course Hour : 32 Hours(2 Hours/Class)<br>
+Admission : +88017 61 500020<br>
+Written By :<br>
+Syed Razwanul Haque (Nabil) ,<br>
+CTO, Cybernetics Robo Academy, Bangladesh<br>
+CEO, CRUX (www.cruxbd.com)<br>
+github.com/Nabilphysics<br>
+www.nabilbd.com <br>
+www.youtube.com/Nabilphysics
