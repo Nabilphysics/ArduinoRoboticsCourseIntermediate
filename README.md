@@ -1,5 +1,5 @@
-# ArduinoRoboticsCourseIntermediate
-Robotics and Arduino Course for Intermediate (Class 8 to 12)
+# Robotics and Arduino Course for Intermediate (Class 8 to 12)
+
 
 Robotics & Programming
 Academy: Cybernetics Robo Academy, Bangladesh
